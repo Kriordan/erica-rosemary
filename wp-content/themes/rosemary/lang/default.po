@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rosemary\n"
+"POT-Creation-Date: 2016-07-29 14:35-0800\n"
+"PO-Revision-Date: 2016-07-29 14:35-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "The page you are looking for has not been found."
+msgstr ""
+
+#: archive.php:7
+msgid "<span>Daily Archives</span>"
+msgstr ""
+
+#: archive.php:8 archive.php:12 archive.php:16
+#, php-format
+msgid "<h1>%s</h1>"
+msgstr ""
+
+#: archive.php:11
+msgid "<span>Monthly Archives</span>"
+msgstr ""
+
+#: archive.php:15
+msgid "<span>Yearly Archives</span>"
+msgstr ""
+
+#: archive.php:19
+msgid "<h1>Archives</h1>"
+msgstr ""
+
+#: author.php:5
+msgid "All Posts By"
+msgstr ""
+
+#: category.php:5
+msgid "Browsing Category"
+msgstr ""
+
+#: category.php:6 search.php:6 tag.php:6
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:226 functions.php:405
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:227 functions.php:406
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:228 functions.php:407
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:240 functions.php:419
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:242 class-tgm-plugin-activation.php:2114
+#: functions.php:420
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:243
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1281 class-tgm-plugin-activation.php:1465
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1285 class-tgm-plugin-activation.php:1468
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1290
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1293
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1296
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1299
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1488
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1504
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1505
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1506
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1507
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1525
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1526
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2097
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2098
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2099
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2100
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2101
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2102
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2113
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2237
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2241
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2242 class-tgm-plugin-activation.php:2249
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2242 class-tgm-plugin-activation.php:2249
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2243
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2244
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2248
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2249
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2250
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2251
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:6
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:6
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:6
+msgid "Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:34
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:35
+msgid "Post Comment"
+msgstr ""
+
+#: content-page.php:17 content.php:77 content.php:88
+msgid "<span class=\"more-button\">Continue Reading</span>"
+msgstr ""
+
+#: content.php:84
+msgid "Continue Reading"
+msgstr ""
+
+#: content.php:120
+msgid "Share"
+msgstr ""
+
+#: functions.php:146
+msgid "Reply"
+msgstr ""
+
+#: functions.php:147
+msgid "Edit"
+msgstr ""
+
+#: functions.php:150
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:152
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: functions.php:178
+msgid "Older Posts <i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: functions.php:179
+msgid "<i class=\"fa fa-angle-double-left\"></i> Newer Posts"
+msgstr ""
+
+#: functions.php:232 functions.php:235 functions.php:245 functions.php:248
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:279
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:408
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:421
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/customizer/sp_custom_controller.php:45
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/featured/featured.php:28
+msgid "Read More"
+msgstr ""
+
+#: inc/templates/related_posts.php:24
+msgid "You Might Also Like"
+msgstr ""
+
+#: inc/widgets/about_widget.php:19
+msgid "A widget that displays an About widget"
+msgstr ""
+
+#: inc/widgets/about_widget.php:25
+msgid "Rosemary: About Me"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:19
+msgid "A widget that displays a Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/facebook_widget.php:25
+msgid "Rosemary: Facebook Like Box"
+msgstr ""
+
+#: inc/widgets/post_widget.php:19
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: inc/widgets/post_widget.php:25
+msgid "Rosemary: Latest Posts"
+msgstr ""
+
+#: inc/widgets/post_widget.php:104
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets/post_widget.php:109
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/post_widget.php:127
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/social_widget.php:19
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:25
+msgid "Rosemary: Social Icons"
+msgstr ""
+
+#: search.php:5
+msgid "Search results for"
+msgstr ""
+
+#: search.php:58
+msgid "Sorry, no posts were found. Try searching for something else."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search and hit enter..."
+msgstr ""
+
+#: tag.php:5
+msgid "Browsing Tag"
+msgstr ""
